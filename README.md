@@ -1,1 +1,1 @@
-# tales-of-typescript-code
+# Tales of typescript code
