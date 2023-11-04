@@ -30,3 +30,21 @@
 - Generics 
     - Dynamic and Reuseable type
     - Generics can be use with "type alias", "interface" and "function"
+- Constraints in TypeScript
+    - By using contraints we can keep some property mandatory
+- Constraint using "keyof" keyword
+    - By using keyof keyword we can get all the key of a object type
+- Asynchronous typeScript
+    - Promise<"TypeHere">()
+- Conditional types
+    - One or more types depends on anohter types
+- Mapped types
+    - By using object look up we can make mapped type
+- Utility types
+    - Pick
+    - Omit
+    - Required
+    - Partial
+    - Readonly
+    - Record
+
