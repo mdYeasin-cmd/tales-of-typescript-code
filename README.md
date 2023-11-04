@@ -19,14 +19,14 @@
 
 ### Covered topics in Module 02
 - Type assertion
-    - A compile time concept
+    - A compile time concept (TypeScript --> JavaScript)
     - Type assertion (or type casting) is a way to tell the TypeScript compiler that you know more about the type of a value than it can infer statically
 - Type narrowing
-    - A runtime concept
+    - A runtime concept (JavaScript --> Browser or Node.js)
     - Type narrowing is a process that occurs during runtime based on certain conditions or checks within your code.
 - Interface, Type vs Interface
-    - Interface object only (Object, Array, Function)
-    - Type object and primivites value both
+    - Interface can use object only (Object, Array, Function)
+    - Type alias can use object and primivite types both
 - Generics 
     - Dynamic and Reuseable type
     - Generics can be use with "type alias", "interface" and "function"
