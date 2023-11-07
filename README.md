@@ -48,3 +48,36 @@
     - Readonly
     - Record
 
+### Covered topics in Module 03
+- What is Object Oriented Programming? 
+- What programming paradigm?
+    - The style used to write and organize code.
+- Programming Paradigm
+    - Procedural programming --> C, Fortran 
+    - Functional programming --> JavaScript, Python
+    - Declarative programming --> SQL
+    - Object Oriented programming --> Java, JavaScript
+    - Event Driven programming --> JavaScript/Node.js, C#
+- Building blocks of OOP
+    - Inheritence
+    - Polymorphism
+    - Abstraction
+    - Encapsulation
+- Class and Object
+- Inheritance in OOP
+    - extends keyword
+    - borrow property and method from parent component
+- Type guard/Type narrowing using typeof, in & instanceof
+- Access modifiers
+    - public (by default)
+    - private
+    - protected
+- Getter and Setter
+- Static in OOP
+- Ploymorphism in OOP
+    - depends on situtation give different types of output
+- Abstraction in OOP
+    - implements & abstract keyword
+    - abstraction means you will get idea, but you don't know how implement it
+- Encapsulation in OOP
+    - encaptulation means hidden
