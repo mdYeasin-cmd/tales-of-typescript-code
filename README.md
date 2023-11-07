@@ -66,14 +66,23 @@
 - Class and Object
 - Inheritance in OOP
     - extends keyword
+    - super() keyword
     - borrow property and method from parent component
-- Type guard/Type narrowing using typeof, in & instanceof
+- Type guard/Type narrowing
+    - typeof
+    - in
+    - instanceof
+- If function return type is multiple we can  use is keyword for make sure what that function call will return "is keyword"
 - Access modifiers
+    - readonly
     - public (by default)
     - private
     - protected
 - Getter and Setter
+    - get
+    - set
 - Static in OOP
+    - static keyword
 - Ploymorphism in OOP
     - depends on situtation give different types of output
 - Abstraction in OOP
